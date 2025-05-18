@@ -34,7 +34,7 @@ The project focuses on applying **object-oriented programming (OOP)** concepts i
 <pre>
 src/
 ├── application/
-│   └── Program.java           # Main class
+│   └── App.java           # Main class
 ├── boardgame/
 │   ├── Board.java
 │   ├── Piece.java
